@@ -2,6 +2,7 @@ import java.util.Scanner;
 
 public class SOL_QE {
     public static void main(String args[]){
+        // WAP TO FIND THE SOLUTION OF A QUADRATIC EQUATION
         try (Scanner ln = new Scanner(System.in)) {
             System.out.println("Enter the coefficient of x2: ");
             double a = ln.nextDouble();
