@@ -1,7 +1,9 @@
 public class Str_Method {
 
     public static void main(String args[]) {
+        
         // WAP TO IMPLEMENT VARIOUS STRING METHODS
+        
         String s1 = "Strings are immutable";
         String s2 = "Integers are not imuutable     ";
 
